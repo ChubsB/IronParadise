@@ -1,0 +1,17 @@
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+  colors: {
+    main: "#060607",
+    secondary: "#5646B3",
+    tertiary: "#2813A0",
+    purpleSupprot: "#190E5B",
+    greenMain: "#448E43",
+    greenSupport: "#45512F",
+    misca: "#EDA030",
+    miscb: "#A0733D",
+  },
+  plugins: [],
+};
